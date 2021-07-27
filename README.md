@@ -7,7 +7,7 @@ This program parses through Traceroute dumps and presents the data in an easy to
 ----------------------
 
 To run the program type in your terminal:
-	 $ make clean
-	 $ make
-	 $ make run
+	 $ make clean\n
+	 $ make\n
+	 $ make run\n
 	 
